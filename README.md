@@ -8,6 +8,8 @@ This is example to show different part of Git repository and various command usi
 
 ## Purpose
 
+Sample website with plenty of files for demos
+
 ## Deployment
 
 Sample website with plenty of files for demos
