@@ -14,6 +14,10 @@ Sample website with plenty of files for demos
 
 Sample website with plenty of files for demos
 
+## How To Contribute
+
+Fork the repository and then issue pull Requests for review
+
 ### Copyright
 
 2024 git practice
